@@ -1,4 +1,4 @@
-# Basic Server
+# Basic Typescript
 
 #### This is the project lab 2 of the nodejs course
 
